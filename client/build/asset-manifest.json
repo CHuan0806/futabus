@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FutaBusDoAn/static/css/main.84bf6922.css",
+    "main.js": "/FutaBusDoAn/static/js/main.a6860643.js",
+    "static/js/453.419a5d54.chunk.js": "/FutaBusDoAn/static/js/453.419a5d54.chunk.js",
+    "index.html": "/FutaBusDoAn/index.html",
+    "main.84bf6922.css.map": "/FutaBusDoAn/static/css/main.84bf6922.css.map",
+    "main.a6860643.js.map": "/FutaBusDoAn/static/js/main.a6860643.js.map",
+    "453.419a5d54.chunk.js.map": "/FutaBusDoAn/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84bf6922.css",
+    "static/js/main.a6860643.js"
+  ]
+}

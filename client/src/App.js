@@ -1,5 +1,5 @@
 import './resourses/global.css'
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import {  BrowserRouter, Routes, Route } from "react-router-dom";
 import Register from "./pages/Register";
 import Login from "./pages/Login";
 import Home from "./pages/Home"
@@ -18,7 +18,7 @@ function App() {
   return (
     <div >
       {loading && <Loader />}
-      <BrowserRouter>
+      <BrowserRouter  >
         <Routes>
           <Route path="/" element={<ProtectedRoute><Home /></ProtectedRoute>} />
           <Route path="/book-now/:id" element={<ProtectedRoute><BookNow /></ProtectedRoute>} />
